@@ -1,0 +1,13 @@
+button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin: 10px;
+    font-weight: bold;
+    background-color: deeppink;
+    color: #fff;
+}
+
+.child{
+    padding: 30px;
+}
